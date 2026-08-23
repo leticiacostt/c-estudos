@@ -30,7 +30,11 @@ Até o momento, foram estudados e praticados:
 * `default`
 * Estruturas de repetição
 * `while`
+* `for`
 * Entrada e saída de dados
+* Contadores
+* Acumuladores
+* Operações de soma e contagem dentro de loops
 * Compilação de programas em C
 
 ---
@@ -57,6 +61,13 @@ Entre os exercícios realizados:
 * Menus utilizando `switch`
 * Contadores utilizando `while`
 * Repetição condicionada à entrada do usuário
+* Contagem de números dentro de intervalos
+* Identificação de múltiplos
+* Tabuada utilizando `for`
+* Soma de números pares e ímpares
+* Contagem de números divisíveis
+* Classificação de valores positivos, negativos e zero
+* Acúmulo de valores utilizando loops
 * Exercícios envolvendo múltiplos conceitos
 
 ---
@@ -73,7 +84,6 @@ Este repositório também funciona como um **registro da minha evolução**, per
 
 Conforme avanço nos estudos, novos conteúdos serão adicionados ao repositório, incluindo:
 
-* `for`
 * `do while`
 * Funções
 * Arrays
@@ -90,6 +100,8 @@ Conforme avanço nos estudos, novos conteúdos serão adicionados ao repositóri
 Este repositório está em constante atualização conforme novos conceitos são estudados e praticados.
 
 A ideia é manter os exercícios organizados e acompanhar, na prática, minha evolução na programação em C.
+
+Atualmente, estou aprofundando meus estudos em **estruturas de repetição**, especialmente o `for`, trabalhando conceitos como **contadores, acumuladores, condições e comparações**.
 
 ---
 
