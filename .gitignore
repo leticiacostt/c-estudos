@@ -4,3 +4,6 @@
 
 # Arquivos objeto
 *.o
+
+# Configurações locais do VS Code
+.vscode/
