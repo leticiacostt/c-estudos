@@ -1,0 +1,6 @@
+- armazenar os recebidos
+- armazenar os pagamentos
+- armazenar saldo
+- saldo
+- irpf
+- menu do sistema
